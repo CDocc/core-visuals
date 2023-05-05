@@ -23,4 +23,5 @@ Things Planned :
 - restart your server
 
 My Discord : https://discord.gg/scora
-My Devlepment Discord : https://discord.gg/vnSb9EP3J6
+
+My Development Discord : https://discord.gg/vnSb9EP3J6
