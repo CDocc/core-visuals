@@ -1,6 +1,8 @@
 # core-visuals
 A free open source server sided visuals resource for FiveM
 
+https://imgur.com/gallery/d5hjCmC
+
 Features:
 
 - Removes Light Coronas from Cars.
@@ -19,3 +21,6 @@ Things Planned :
 - drag & drop the core-visuals folder into your resource folder
 - add core-visuals to your server.cfg
 - restart your server
+
+My Discord : https://discord.gg/scora
+My Devlepment Discord : https://discord.gg/vnSb9EP3J6
