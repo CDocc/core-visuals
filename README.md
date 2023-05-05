@@ -16,6 +16,6 @@ Things Planned :
 
 <b>How to Install</b>
 
-drag & drop the core-visuals folder into your resource folder
-add core-visuals to your server.cfg
-restart your server.
+- drag & drop the core-visuals folder into your resource folder
+- add core-visuals to your server.cfg
+- restart your server
